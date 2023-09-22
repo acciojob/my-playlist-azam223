@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+h1, h2, h2{
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration-line: none;
+}
+video, audio{
+	background-color: rgb(255, 255, 255); 
+	padding: 20px;
+	border-radius:25px;
+}
+body{
+	background-color: rgb(204, 204, 204);
+}
+.songs{
+	width: 600px;
+	height: 150px;
+	background-color: white;
+	padding-top: 20px;
+	border-radius: 15px;
+	border: 1px solid black;
+}
+.both{
+	width: 400px;
+	height: 450px;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 15px;
+	margin-left: 100px;
+
+}
+.player_one{
+	margin-left: 20px;
+}
+.player_two{
+	width: 100%;
+	height: 60px;
+	box-sizing: border-box;
+	over-follow: hidden;
+}
+p{
+	margin-left: 10px;
+}
